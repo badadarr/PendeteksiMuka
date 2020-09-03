@@ -1,2 +1,2 @@
-# PendeteksiMuka
-Untuk mendeteksi muka dengan menggunakan OpenCV
+# PendeteksiWajahBermasker
+Untuk mendeteksi wajah yang pakai masker dengan menggunakan OpenCV
